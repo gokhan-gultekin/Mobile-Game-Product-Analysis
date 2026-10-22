@@ -36,10 +36,10 @@ The project translates analytical findings into product improvement opportunitie
 The proposed feature and experiment design are recommendations, not implemented product changes.
 
 Project Files
-- Full Project Report
-- SQL Analysis
-- Power BI Dashboard (PDF)
-- Power BI Source File
+- [Full Project Report](Gamelytics_Project_Report.pdf)
+- [SQL Analysis](sql/Gamelytics_Data_Analysis.sql)
+- [Power BI Dashboard (PDF)](powerbi/Gamelytics_Product_Analytics_Dashboard.pdf)
+- [Power BI Source File](powerbi/Gamelytics_Product_Analytics_Dashboard.pbix)
 
 **Data Source**
 
